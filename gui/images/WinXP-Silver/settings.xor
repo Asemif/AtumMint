@@ -1,0 +1,25 @@
+[font]
+font=gui/ubuntu_font/Ubuntu-Regular.ttf;
+sysfont=0;
+antialias=1;
+font_size=19;
+font_color=0,0,0;
+button_font_color=0,0,0;
+link_font_color=255,255,255;
+menu_font_color=0,0,0;
+menu_font=gui/ubuntu_font/Ubuntu-Regular.ttf;
+menu_sysfont=0;
+menu_antialias=1;
+start_font_color=255,255,255;
+start_font=gui/ubuntu_font/Ubuntu-Italic.ttf;
+start_sysfont=0;
+start_antialias=1;
+start_font_size=19;
+start_text=start;
+[/font]
+
+[windows_sys]
+bg_color=255,255,150;
+theme_name=Windows XP Silver;
+atum_version=Beta 1;
+[/windows_sys]
