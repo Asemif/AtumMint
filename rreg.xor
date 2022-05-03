@@ -1,0 +1,10 @@
+[windows_sys]
+theme=WinXP;
+[/windows_sys]
+[user]
+user_name=Administrator;
+user_pic=user/pics/atum_mint.bmp;
+[/user]
+[icons]
+exe=atum;
+[/icons]
